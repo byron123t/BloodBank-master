@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\03938fbd3428cd55838cff9776e920ac58685fc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddbc98bec2c7bb56ef509d5bb332987c8e24ee5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\32685cbe4e97750c987c82c87973dfde83b47a42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42ebfdfcc91ce5d0311e202ded968ac3c0de0c13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\24e5baf78cc70f3f08321268c79dc062b4e6f498\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67bd1ceeb734a062b7cd58a4fd1b152669b8ed38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\41417f49009a1b25aa76cbcef70a8966cca38a8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95d33a0fb119c9549b44443e3dbdfa1e2559354e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e7f38a66aa9da7e26a5fbfa47c9b8e0f3ea790d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\82d3bf6e78dae710c9514fc0d35ed38d6ccabdfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a31a5b00225aa9b272823f9a12aafc2d647525a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c090a88458befe57066bdd614d56d43d0f26838a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\61e8c91bef7d0cb9545f1925b8c5c9f130043350\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c01a38222cb744c6200eeb07498770a6b9c8e75a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\b9e76cdad94c148c6a166cfb857d462a9a8bf838\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1e6e7420e4a8cc0a557ce2cdd3b59a381ec064a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\8f7f45ec575f6c4dba590462423464fede69e7bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0e3f9352a40dd8f903cad4d11a588882efd16db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\484cd994b0b0dddb0d5962a4a4d50d28adbd5886\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cf00dfb01cfab9f36d937fda663de3c21568e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dee27a7f2c6a535c70a93438a1d15339602e0894">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8178561c3ee9b32b22935fdfe0c6bedd6083c93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\.android\build-cache\b1ca9755e1ee7ab53acb45a9415700f776bb3d33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e581482ac77a44199f8085d4e95d4c88771d2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\byron\Desktop\BloodBank-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_04c0375168e969849fe6019b0a469f1ba131be66\classes.dex" />
+    </item>
+
+</items>
