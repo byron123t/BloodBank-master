@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="state">State</string>
+    <string name="email">Email</string>
+    <string-array name="bloodtypearray">
+        <item name ="O-">O-</item>
+        <item name ="O+">O+</item>
+        <item name ="A-">A-</item>
+        <item name ="A+">A+</item>
+        <item name ="B-">B-</item>
+        <item name ="B+">B+</item>
+        <item name ="AB-">AB-</item>
+        <item name ="AB+">AB+</item>
+
+    </string-array>
+</resources>

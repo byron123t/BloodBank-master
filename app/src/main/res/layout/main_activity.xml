@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/nameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="72dp"
+        android:layout_marginEnd="72dp"
+        tools:ignore="RelativeOverlap" />
+
+    <Spinner
+        android:id="@+id/bloodtype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:spinnerMode="dropdown"
+        android:visibility="visible"
+        android:layout_below="@+id/nameText"
+        android:layout_alignLeft="@+id/nameText"
+        android:layout_alignStart="@+id/nameText"
+        android:layout_alignRight="@+id/nameText"
+        android:layout_alignEnd="@+id/nameText" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nameText"
+        android:layout_alignBottom="@+id/nameText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:text="@string/name" />
+
+    <TextView
+        android:id="@+id/bloodtypelabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/blood_type"
+        android:layout_alignTop="@+id/bloodtype"
+        android:layout_toLeftOf="@+id/bloodtype"
+        android:layout_toStartOf="@+id/bloodtype" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/progressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="66dp"
+        android:text="@string/sign_up" />
+
+    <TextView
+        android:id="@+id/citylabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bloodtypelabel"
+        android:layout_alignStart="@+id/bloodtypelabel"
+        android:layout_below="@+id/bloodtype"
+        android:layout_marginTop="42dp"
+        android:text="@string/city" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="19dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/editText3"
+        android:layout_alignEnd="@+id/editText3"
+        tools:ignore="UnknownId" />
+
+    <EditText
+        android:id="@+id/cityText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPostalAddress"
+        android:layout_alignBaseline="@+id/citylabel"
+        android:layout_alignBottom="@+id/citylabel"
+        android:layout_alignLeft="@+id/bloodtype"
+        android:layout_alignStart="@+id/bloodtype" />
+
+    <TextView
+        android:id="@+id/statelabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/citylabel"
+        android:layout_alignStart="@+id/citylabel"
+        android:layout_below="@+id/cityText"
+        android:layout_marginTop="33dp"
+        android:text="@string/state" />
+
+    <EditText
+        android:id="@+id/stateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/statelabel"
+        android:layout_alignBottom="@+id/statelabel"
+        android:layout_alignLeft="@+id/cityText"
+        android:layout_alignStart="@+id/cityText"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/emailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/statelabel"
+        android:layout_alignStart="@+id/statelabel"
+        android:layout_below="@+id/stateText"
+        android:layout_marginTop="22dp"
+        android:text="@string/email" />
+
+    <EditText
+        android:id="@+id/emailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/emailLabel"
+        android:layout_alignBottom="@+id/emailLabel"
+        android:layout_alignLeft="@+id/stateText"
+        android:layout_alignStart="@+id/stateText"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
+
+</RelativeLayout>
